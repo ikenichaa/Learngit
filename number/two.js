@@ -1,1 +1,1 @@
-console.lgg("I am two")
+console.lgg("I am two ja")
